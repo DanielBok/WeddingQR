@@ -5,6 +5,8 @@ import QRCustom from "./static/QR-CUSTOM.jpg";
 import QR238 from "./static/QR238.jpg";
 import QR488 from "./static/QR488.jpg";
 import QR728 from "./static/QR728.jpg";
+import QR968 from "./static/QR968.jpg";
+import QR1288 from "./static/QR1288.jpg";
 
 const {Header, Content, Sider} = Layout;
 type MenuItem = Required<MenuProps>["items"][number];
@@ -14,6 +16,8 @@ const IMAGES = {
   "1 pax": {image: QR238, desc: "$238"},
   "2 pax": {image: QR488, desc: "$488"},
   "3 pax": {image: QR728, desc: "$728"},
+  "4 pax": {image: QR968, desc: "$968"},
+  "5 pax": {image: QR1288, desc: "$1288"},
 };
 
 function getMenuItem(label: string, key: React.Key): MenuItem {
