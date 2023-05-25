@@ -61,7 +61,7 @@ function App() {
           >
             <Typography.Title level={3} style={{textAlign: "center"}}>{info.desc}</Typography.Title>
             <Divider/>
-            <img src={info.image}/>
+            <img src={info.image} alt="QR Code"/>
           </Content>
         </Layout>
       </Layout>
