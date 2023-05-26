@@ -1,21 +1,16 @@
 {
   "files": {
     "main.css": "WeddingQR/static/css/main.9ab93a5f.css",
-    "main.js": "WeddingQR/static/js/main.258d75b3.js",
+    "main.js": "WeddingQR/static/js/main.90cf8f5d.js",
     "static/js/787.723e24fe.chunk.js": "WeddingQR/static/js/787.723e24fe.chunk.js",
-    "static/media/QR488.jpg": "WeddingQR/static/media/QR488.5c39df30ece144672e5d.jpg",
-    "static/media/QR968.jpg": "WeddingQR/static/media/QR968.923c9348ec30168dc52f.jpg",
-    "static/media/QR728.jpg": "WeddingQR/static/media/QR728.848502598ee6625ba80e.jpg",
-    "static/media/QR238.jpg": "WeddingQR/static/media/QR238.9225fda0f17ab425173a.jpg",
-    "static/media/QR1288.jpg": "WeddingQR/static/media/QR1288.2580e220f8406545401a.jpg",
-    "static/media/QR-CUSTOM.jpg": "WeddingQR/static/media/QR-CUSTOM.c3561c6505a8461d624c.jpg",
+    "static/media/QR-CUSTOM.jpg": "WeddingQR/static/media/QR-CUSTOM.29f59706bcecec895fb6.jpg",
     "index.html": "WeddingQR/index.html",
     "main.9ab93a5f.css.map": "WeddingQR/static/css/main.9ab93a5f.css.map",
-    "main.258d75b3.js.map": "WeddingQR/static/js/main.258d75b3.js.map",
+    "main.90cf8f5d.js.map": "WeddingQR/static/js/main.90cf8f5d.js.map",
     "787.723e24fe.chunk.js.map": "WeddingQR/static/js/787.723e24fe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9ab93a5f.css",
-    "static/js/main.258d75b3.js"
+    "static/js/main.90cf8f5d.js"
   ]
 }
